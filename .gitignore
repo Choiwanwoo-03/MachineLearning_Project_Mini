@@ -1,0 +1,15 @@
+# 가상환경
+venv/
+.venv/
+
+# 데이터 및 모델 (용량이 커서 올리지 않음)
+data/
+models/*.pkl
+models/*.h5
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# OS 관련 설정
+.DS_Store
